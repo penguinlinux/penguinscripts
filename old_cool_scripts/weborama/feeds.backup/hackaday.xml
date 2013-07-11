@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>Hack a Day</title>
+	<atom:link href="http://hackaday.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://hackaday.com</link>
+	<description>Fresh hacks every day</description>
+	<pubDate>Thu, 18 Sep 2008 15:30:37 +0000</pubDate>
+	<generator>http://wordpress.org/?v=MU</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>Backup DVD burning robot</title>
+		<link>http://hackaday.com/2008/09/18/backup-dvd-burning-robot/</link>
+		<comments>http://hackaday.com/2008/09/18/backup-dvd-burning-robot/#comments</comments>
+		<pubDate>Thu, 18 Sep 2008 15:30:37 +0000</pubDate>
+		<dc:creator>Ian Lesnet</dc:creator>
+		
+		<category><![CDATA[daily]]></category>
+
+		<category><![CDATA[misc hacks]]></category>
+
+		<category><![CDATA[robots hacks]]></category>
+
+		<category><![CDATA[backup]]></category>
+
+		<category><![CDATA[burn]]></category>
+
+		<category><![CDATA[burning]]></category>
+
+		<category><![CDATA[cdr]]></category>
+
+		<category><![CDATA[disk burning]]></category>
+
+		<category><![CDATA[disk duplicator]]></category>
+
+		<category><![CDATA[dvd]]></category>
+
+		<category><![CDATA[dvdr]]></category>
+
+		<category><![CDATA[mini-itx]]></category>
+
+		<category><![CDATA[robot]]></category>
+
+		<guid isPermaLink="false">http://hackadaycom.wordpress.com/?p=3303</guid>
+		<description><![CDATA[
+[Aaron Shephard] at mini-itx.com just finished a backup DVD burning robot based on an EPIA M10000 Mini-ITX motherboard and scavenged parts. A Perl script interacts with stepper motors, LEDs, and sensors through the parallel port on the motherboard. The robot inserts DVDs for burning, flips them for labeling, and stacks completed discs in a pile. [...]]]></description>
+			<content:encoded><![CDATA[<div class='snap_preview'><br /><p><img class="alignnone size-full wp-image-3305" title="dvd-burning-robot-450" src="http://hackadaycom.files.wordpress.com/2008/09/dvd-burning-robot-450.jpg?w=450&#038;h=325" alt="" width="450" height="325" /></p>
+<p>[Aaron Shephard] at <a href="http://www.mini-itx.com/">mini-itx.com</a> just finished a <a href="http://www.mini-itx.com/2008/09/12/florian-the-dvd-burning-robot">backup DVD burning robot</a> based on an EPIA M10000 Mini-ITX motherboard and scavenged parts. A Perl script interacts with stepper motors, LEDs, and sensors through the parallel port on the motherboard. The robot inserts DVDs for burning, flips them for labeling, and stacks completed discs in a pile. Coasters are rejected to a &#8216;penalty box&#8217; for easy disposal.</p>
+<p>We&#8217;ve also covered some other <a href="http://hackaday.com/2006/06/17/diy-optical-disc-duplicator/">optical disc duplicators</a> in the past.</p>
+<p>[thanks <a href="http://humbels.com">maxthereal</a>]</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/hackadaycom.wordpress.com/3303/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/hackadaycom.wordpress.com/3303/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/hackadaycom.wordpress.com/3303/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/hackadaycom.wordpress.com/3303/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/hackadaycom.wordpress.com/3303/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/hackadaycom.wordpress.com/3303/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/hackadaycom.wordpress.com/3303/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/hackadaycom.wordpress.com/3303/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/hackadaycom.wordpress.com/3303/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/hackadaycom.wordpress.com/3303/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=hackaday.com&blog=4779443&post=3303&subd=hackadaycom&ref=&feed=1" /></div>]]></content:encoded>
+			<wfw:commentRss>http://hackaday.com/2008/09/18/backup-dvd-burning-robot/feed/</wfw:commentRss>
+	
+		<media:content url="http://hackadaycom.files.wordpress.com/2008/09/dvd-burning-robot-450.jpg" medium="image">
+			<media:title type="html">dvd-burning-robot-450</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Control your camera remotely with a DS</title>
+		<link>http://hackaday.com/2008/09/17/control-your-camera-remotely-with-a-ds/</link>
+		<comments>http://hackaday.com/2008/09/17/control-your-camera-remotely-with-a-ds/#comments</comments>
+		<pubDate>Wed, 17 Sep 2008 23:54:38 +0000</pubDate>
+		<dc:creator>Joey Celis</dc:creator>
+		
+		<category><![CDATA[digital cameras hacks]]></category>
+
+		<category><![CDATA[gameboy hacks]]></category>
+
+		<category><![CDATA[handhelds hacks]]></category>
+
+		<category><![CDATA[camera]]></category>
+
+		<category><![CDATA[canon]]></category>
+
+		<category><![CDATA[ds]]></category>
+
+		<category><![CDATA[dslr]]></category>
+
+		<category><![CDATA[handheld]]></category>
+
+		<category><![CDATA[nintendo]]></category>
+
+		<category><![CDATA[Nintendo DS]]></category>
+
+		<category><![CDATA[Tether]]></category>
+
+		<category><![CDATA[videogame]]></category>
+
+		<guid isPermaLink="false">http://hackadaycom.wordpress.com/?p=3346</guid>
+		<description><![CDATA[
+Using a custom built cable connected to the lower GBA slot and a copy of Canon&#8217;s SDK, [Steve Chapman] has come up with a very clever way of taking pictures remotely with a Nintendo DS Lite.
+Currently the software supports bracket shooting as well as bulb mode. [Steve] points out that he is currently testing an audio [...]]]></description>
+			<content:encoded><![CDATA[<div class='snap_preview'><br /><p><img class="alignnone size-full wp-image-3349" title="1dsdslr" src="http://hackadaycom.files.wordpress.com/2008/09/1dsdslr.jpg?w=450&#038;h=253" alt="" width="450" height="253" /></p>
+<p>Using a custom built cable connected to the lower GBA slot and a copy of Canon&#8217;s SDK, [Steve Chapman] has come up with a very clever way of <a href="http://panocamera.com/blog/?p=26">taking pictures remotely with a Nintendo DS Lite</a>.</p>
+<p>Currently the software supports bracket shooting as well as bulb mode. [Steve] points out that he is currently testing an audio based trigger system using the mic built into the DS and the software is still a work in progress.</p>
+<p>While the weight saving benefits of using a DS instead of a notebook are obvious, there are things you do give up going this route. Traditionally, when you tether a camera to a computer the photos are saved directly to the computer where you can view the image on a much larger monitor. With the DS, it seems all you can do is remotely trigger the camera. Given the size and resolution of the screens maybe that&#8217;s all it can do.</p>
+<p>[via <a href="http://gadgets.boingboing.net/2008/09/17/dsdslr-homebrew-nint.html">Boing Boing Gadgets</a>]</p>
+<img alt="" border="0" src="http://feeds.wordpress.com/1.0/categories/hackadaycom.wordpress.com/3346/" /> <img alt="" border="0" src="http://feeds.wordpress.com/1.0/tags/hackadaycom.wordpress.com/3346/" /> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/hackadaycom.wordpress.com/3346/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/hackadaycom.wordpress.com/3346/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/hackadaycom.wordpress.com/3346/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/hackadaycom.wordpress.com/3346/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/hackadaycom.wordpress.com/3346/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/hackadaycom.wordpress.com/3346/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/hackadaycom.wordpress.com/3346/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/hackadaycom.wordpress.com/3346/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/hackadaycom.wordpress.com/3346/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/hackadaycom.wordpress.com/3346/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=hackaday.com&blog=4779443&post=3346&subd=hackadaycom&ref=&feed=1" /></div>]]></content:encoded>
+			<wfw:commentRss>http://hackaday.com/2008/09/17/control-your-camera-remotely-with-a-ds/feed/</wfw:commentRss>
+	
+		<media:content url="http://hackadaycom.files.wordpress.com/2008/09/1dsdslr.jpg" medium="image">
+			<media:title type="html">1dsdslr</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Old school high voltage capacitance</title>
+		<link>http://hackaday.com/2008/09/17/old-school-high-voltage-capacitance/</link>
+		<comments>http://hackaday.com/2008/09/17/old-school-high-voltage-capacitance/#comments</comments>
+		<pubDate>Wed, 17 Sep 2008 19:59:28 +0000</pubDate>
+		<dc:creator>Caleb Kraft</dc:creator>
+		
+		<category><![CDATA[daily]]></category>
+
+		<category><![CDATA[misc hacks]]></category>
+
+		<category><![CDATA[capacitor]]></category>
+
+		<category><![CDATA[layden jar]]></category>
+
+		<guid isPermaLink="false">http://hackaday.com/?p=3335</guid>
+		<description><![CDATA[
+What would MacGyver do if he needed a high voltage capacitor but only had some foil, tape, water, salt, a nail and a plastic jug?  He would build a salt water Leyden jar, that&#8217;s what.  The Leyden jar is a very simple capacitor. Invented in 1745, it has been integral to many scientific experiments. Check [...]]]></description>
+			<content:encoded><![CDATA[<div class='snap_preview'><br /><p><img class="alignnone size-full wp-image-3334" title="layden" src="http://hackadaycom.files.wordpress.com/2008/09/layden.jpg?w=450&#038;h=325" alt="" width="450" height="325" /><br />
+What would MacGyver do if he needed a high voltage capacitor but only had some foil, tape, water, salt, a nail and a plastic jug?  He would build a <a href="http://www.instructables.com/id/Make_A_Water_Leyden_Jar/#step6">salt water Leyden jar</a>, that&#8217;s what.  The Leyden jar is a very simple capacitor. Invented in 1745, it has been integral to many scientific experiments. Check the <a href="http://en.wikipedia.org/wiki/Leyden_jar">wikipedia</a> entry to learn more about the history.</p>
+<p>This specific type is quite easy to make. It uses a salt water interior instead of foil on the inside and outside. That means you could slap one of these together in a few minutes to impress your friends and/or electrocute yourself accidentally.  Please be careful as this is high voltage.</p>
+<img alt="" border="0" src="http://feeds.wordpress.com/1.0/categories/hackadaycom.wordpress.com/3335/" /> <img alt="" border="0" src="http://feeds.wordpress.com/1.0/tags/hackadaycom.wordpress.com/3335/" /> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/hackadaycom.wordpress.com/3335/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/hackadaycom.wordpress.com/3335/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/hackadaycom.wordpress.com/3335/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/hackadaycom.wordpress.com/3335/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/hackadaycom.wordpress.com/3335/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/hackadaycom.wordpress.com/3335/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/hackadaycom.wordpress.com/3335/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/hackadaycom.wordpress.com/3335/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/hackadaycom.wordpress.com/3335/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/hackadaycom.wordpress.com/3335/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=hackaday.com&blog=4779443&post=3335&subd=hackadaycom&ref=&feed=1" /></div>]]></content:encoded>
+			<wfw:commentRss>http://hackaday.com/2008/09/17/old-school-high-voltage-capacitance/feed/</wfw:commentRss>
+	
+		<media:content url="http://hackadaycom.files.wordpress.com/2008/09/layden.jpg" medium="image">
+			<media:title type="html">layden</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Multi Platform Plug&#8217;n'Play system update</title>
+		<link>http://hackaday.com/2008/09/17/multi-platform-plugnplay-system-update/</link>
+		<comments>http://hackaday.com/2008/09/17/multi-platform-plugnplay-system-update/#comments</comments>
+		<pubDate>Wed, 17 Sep 2008 15:20:31 +0000</pubDate>
+		<dc:creator>Caleb Kraft</dc:creator>
+		
+		<category><![CDATA[gameboy hacks]]></category>
+
+		<category><![CDATA[handhelds hacks]]></category>
+
+		<category><![CDATA[news]]></category>
+
+		<category><![CDATA[gab]]></category>
+
+		<category><![CDATA[gameboy]]></category>
+
+		<category><![CDATA[handheld]]></category>
+
+		<guid isPermaLink="false">http://hackadaycom.wordpress.com/?p=3320</guid>
+		<description><![CDATA[
+[Bacteria] sent us this sweet video of the Multi Platform Plug&#8217;n'Play system running his new GameBoy Advance module.  He&#8217;s made an addon for his unit that allows him to play his GameBoy Advance cartridges as well as GameBoy ones. Watch the vid for the details and some views of the insides.
+     [...]]]></description>
+			<content:encoded><![CDATA[<div class='snap_preview'><br /><p><span style="text-align:center; display: block;"><a href="http://hackaday.com/2008/09/17/multi-platform-plugnplay-system-update/"><img src="http://img.youtube.com/vi/22yI_nk09Fc/2.jpg" alt="" /></a></span></p>
+<p>[Bacteria] sent us this sweet video of the <a href="http://hackaday.com/2008/08/30/modular-portable-system/">Multi Platform Plug&#8217;n'Play system</a> running his new GameBoy Advance module.  He&#8217;s made an addon for his unit that allows him to play his GameBoy Advance cartridges as well as GameBoy ones. Watch the vid for the details and some views of the insides.</p>
+<img alt="" border="0" src="http://feeds.wordpress.com/1.0/categories/hackadaycom.wordpress.com/3320/" /> <img alt="" border="0" src="http://feeds.wordpress.com/1.0/tags/hackadaycom.wordpress.com/3320/" /> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/hackadaycom.wordpress.com/3320/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/hackadaycom.wordpress.com/3320/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/hackadaycom.wordpress.com/3320/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/hackadaycom.wordpress.com/3320/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/hackadaycom.wordpress.com/3320/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/hackadaycom.wordpress.com/3320/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/hackadaycom.wordpress.com/3320/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/hackadaycom.wordpress.com/3320/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/hackadaycom.wordpress.com/3320/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/hackadaycom.wordpress.com/3320/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=hackaday.com&blog=4779443&post=3320&subd=hackadaycom&ref=&feed=1" /></div>]]></content:encoded>
+			<wfw:commentRss>http://hackaday.com/2008/09/17/multi-platform-plugnplay-system-update/feed/</wfw:commentRss>
+	
+		<media:content url="http://img.youtube.com/vi/22yI_nk09Fc/2.jpg" medium="image" />
+	</item>
+		<item>
+		<title>How-to: Thermite hard drive destruction</title>
+		<link>http://hackaday.com/2008/09/16/how-to-thermite-based-hard-drive-anti-forensic-destruction/</link>
+		<comments>http://hackaday.com/2008/09/16/how-to-thermite-based-hard-drive-anti-forensic-destruction/#comments</comments>
+		<pubDate>Wed, 17 Sep 2008 01:50:00 +0000</pubDate>
+		<dc:creator>Jason Rollette</dc:creator>
+		
+		<category><![CDATA[daily]]></category>
+
+		<category><![CDATA[how-to]]></category>
+
+		<category><![CDATA[security hacks]]></category>
+
+		<category><![CDATA[burn]]></category>
+
+		<category><![CDATA[Chemistry]]></category>
+
+		<category><![CDATA[Experiments]]></category>
+
+		<category><![CDATA[feature]]></category>
+
+		<category><![CDATA[fire]]></category>
+
+		<category><![CDATA[howto]]></category>
+
+		<category><![CDATA[Magnesium Ribbon]]></category>
+
+		<category><![CDATA[Potassium Permanganate]]></category>
+
+		<category><![CDATA[Thermite]]></category>
+
+		<category><![CDATA[Thermite Ingredients]]></category>
+
+		<category><![CDATA[Thermite Pictures]]></category>
+
+		<category><![CDATA[Thermite Reaction]]></category>
+
+		<category><![CDATA[Thermite Video]]></category>
+
+		<category><![CDATA[Types of Thermite]]></category>
+
+		<guid isPermaLink="false">http://hackaday.iheartcashews.com:8181/2008/08/25/how-to-thermite-based-hard-drive-anti-forensic-destruction/</guid>
+		<description><![CDATA[
+After the overwhelming response to the Hackit we posted about automated hard drive destruction last fall, we finally decided to test out some thermite hard drive destruction ourselves. This has been done on The Screen Savers but they did not show up close results of the platters. So, aluminum and black iron oxide were procured [...]]]></description>
+			<content:encoded><![CDATA[<div class='snap_preview'><br /><p><img class="alignnone" title="thermite" src="http://hackadaycom.files.wordpress.com/2008/08/dsc02559a.jpg?w=450&#038;h=357" alt="" width="450" height="357" /></p>
+<p>After the overwhelming response to the Hackit we posted about <a href="http://www.hackaday.com/2007/12/25/holiday-hackit-automated-hard-drive-destruction/">automated hard drive destruction</a> last fall, we finally decided to test out some thermite hard drive destruction ourselves. This has been done on <a href="http://video.google.com/videoplay?docid=-4147847319296070400">The Screen Savers</a> but they did not show up close results of the platters. So, aluminum and black iron oxide were procured through eBay, and until it arrived we watched some YouTube videos that showed a lot of fire and no real results. We decided to see what it would take to completely obliterate a drive.</p>
+<p>With the amount of personal data stored on your computer, we all understand the importance of destroying the data that is stored on the platters of a hard drive before disposing of it. There are many ways to destroy a hard drive; software, physical disassembly, drills, hammers, magnets/electromagnets, and acid, but none are quite as outrageous and dangerous as thermite. That&#8217;s what we&#8217;re going to do here today. Follow along for pictures and videos of the results.</p>
+<p><span id="more-2507"></span></p>
+<p>A couple different methods of containing the thermite above the hard drive were tried and we quickly found the best way is a clay flower pot with the drip tray for a lid. An Altoids tin was also tried, but it burned up to quickly. Molding a cement container was also attempted. Since thermite is extremely hard to ignite, sparklers that were left over from the 4th of July were used, and offered a very reliable method of ignition.</p>
+<p>Our goal was to completely destroy the drive while it was still in the computer case. The theoretical application is to destroy the disk at a moments notice so it won&#8217;t fall into the wrong hands. After testing multiple methods, placing about 1 pound of thermite in a clay flower pot and lighting from the drain hole in the bottom yielded the best results. This could easily be placed in the 5.25&#8243; bays above the drive.</p>
+<p><span style="text-align:center; display: block;"><a href="http://hackaday.com/2008/09/16/how-to-thermite-based-hard-drive-anti-forensic-destruction/"><img src="http://img.youtube.com/vi/k-ckechIqW0/2.jpg" alt="" /></a></span></p>
+<p>A thermite reaction is a process in which the correct mixture of metallic fuels are combined with a metal oxidizer and ignited. Ignition itself requires extremely high temperatures, but once ignited, thermite supplies its own source of oxygen. It can potentially burn underwater when mixed properly. Thermite is usually used to <a href="http://www.youtube.com/watch?v=nR6K90cR8Lg&amp;feature=related">weld railroad ties together</a>.</p>
+<p>The most common thermite is &#8220;<a href="http://en.wikipedia.org/wiki/Thermite">black or blue iron oxide (Fe3O4), produced by oxidizing iron in an oxygen-rich environment under high heat</a>&#8221; and Aluminum(Al). Red iron(III) oxide (Fe2O3), commonly known as rust, can also be used. There are <a href="http://www.nakka-rocketry.net/thermites.html">many chemicals that can make thermite</a>; the mixtures used to make thermite therefore vary, causing confusing and <a href="http://amazingrust.com/Experiments/how_to/Thermite.html">changing mixture ratios</a>.</p>
+<p><img class="alignnone size-medium wp-image-7850" src="http://hackadaycom.files.wordpress.com/2008/09/alum-powder1.jpg?w=222&#038;h=165" alt="" width="222" height="165" /><img class="alignnone size-medium wp-image-7851" src="http://hackadaycom.files.wordpress.com/2008/09/fe304.jpg?w=222&#038;h=165" alt="" width="222" height="165" /></p>
+<p>Since the oxidation of one substance involves the reduction of another, this type of reaction is often called redox reaction. In the following <a href="http://www.webqc.org/balance.php">balanced reaction</a>, 8Al + 3fe3O4 = 4Al2O3 + 9Fe + Heat. The element Al is oxidized, but Fe is reduced. This reaction is also called a displacement reaction because Al displaces Fe in the oxide. Because of the nature of this reaction, the correct ratio of substances is important to ensure the optimum amounts of fuel (aluminum) and oxygen (iron oxide) within the mixture. Thermite is very safe to handle because of the high ignition temperatures required, sparklers were used in this instance, however magnesium ribbon can also be used. We think an electric <a href="http://members.aol.com/kappadx/kappa.html#Pyrogen">pyrogen igniter</a> would be a far better choice for ignition, instead of <a href="http://www.youtube.com/watch?v=5IJw5qwWlNI">unreliable methods</a>.</p>
+<p>There are two important aspects to ensure a successful reaction. Thorough/even mixing and smallest possible powder particle size. If thermite is not adequately mixed, it may be difficult to ignite or maintain the reaction. One problem when mixing thermite is the difference in weight between the aluminum and the iron oxide. This causes them to separate out rendering the thermite useless. The process used here with great success was five minutes in a rock tumbler. Powder particle size is measured with a <a href="http://www.espi-metals.com/tech/mesh.htm">measurement called mesh</a>. Passing the powder through a mesh will determine the largest particle size, this reaction performs best with the smallest obtainable mesh size. The mesh size for aluminum was 1200 mesh and black iron oxide was 300 mesh.</p>
+<p>The total enthalpy or heat content released is -3.677 kJoule per gram of Fe3O4/AL thermite. The ratio of Fe3O4 to aluminum powder by weight is about 3.22 to 1, according to the <a href="http://www.science.uwaterloo.ca/~cchieh/cact/c120/stoichio.html">reaction&#8217;s stoichiometry</a>.  The reaction photographed was 200 grams of Aluminum and 644 grams of black iron oxide yielding 2368 kJoules of heat. This was more than was required to adequately destroy the hard drive, a smaller amount could have been used, and still destroyed the platters. It would have even been better controlled, or better yet contained within the computer case. What fun is that?</p>
+<p><img class="alignnone size-medium wp-image-7880" src="http://hackadaycom.files.wordpress.com/2008/09/dsc025581.jpg?w=450&#038;h=348" alt="" width="450" height="348" /></p>
+<p>Using thermite to destroy a hard drive is a very violent and destructive process. Great care should be taken as the molten metal can splash and sputter for a long distance.</p>
+<p><img class="alignnone size-medium wp-image-7877" src="http://hackadaycom.files.wordpress.com/2008/09/dsc02560.jpg?w=450&#038;h=330" alt="" width="450" height="330" /></p>
+<p>The reaction begins to sputter.</p>
+<p><img class="alignnone size-medium wp-image-7876" src="http://hackadaycom.files.wordpress.com/2008/09/dsc02561.jpg?w=450&#038;h=383" alt="" width="450" height="383" /></p>
+<p>The thermite has just contacted the hard drive.</p>
+<p><img class="alignnone size-medium wp-image-7872" src="http://hackadaycom.files.wordpress.com/2008/09/dsc02565.jpg?w=450&#038;h=352" alt="" width="450" height="352" /></p>
+<p>Things are really hot now!</p>
+<p><img class="alignnone size-medium wp-image-7871" src="http://hackadaycom.files.wordpress.com/2008/09/dsc02570.jpg?w=450&#038;h=356" alt="" width="450" height="356" /></p>
+<p>Most of the reaction is completed.</p>
+<p><img class="alignnone size-medium wp-image-7869" src="http://hackadaycom.files.wordpress.com/2008/09/dsc02591.jpg?w=450&#038;h=331" alt="" width="450" height="331" /></p>
+<p>The molten thermite, platters and most of the aluminum frame from the hard drive in the bottom of the case.</p>
+<p><img class="alignnone size-medium wp-image-7861" src="http://hackadaycom.files.wordpress.com/2008/09/dsc02657a.jpg?w=450&#038;h=316" alt="" width="450" height="316" /></p>
+<p>Above are the molten hard drive platters destroyed with 844 grams of thermite. It takes about this much thermite contained directly above the drive to get the job done, if it is not you will just get a <a href="http://revision3.com/thebroken/ep3/">superficial fire</a>.</p>
+<p><img class="alignnone size-medium wp-image-7862" src="http://hackadaycom.files.wordpress.com/2008/09/dsc02743a.jpg?w=450&#038;h=304" alt="" width="450" height="304" /></p>
+<p>Over all the destruction of the drive and platters was accomplished in all cases in a matter of seconds. This is by far a guaranteed method of destroying data in a time of need. We&#8217;re pretty sure this will prevent most forensic data recovery methods.</p>
+<p>Below is a video of Brainiac using thermite to burn cars and trying to stop the reaction with liquid nitrogen.</p>
+<p><span style="text-align:center; display: block;"><a href="http://hackaday.com/2008/09/16/how-to-thermite-based-hard-drive-anti-forensic-destruction/"><img src="http://img.youtube.com/vi/WrCWLpRc1yM/2.jpg" alt="" /></a></span></p>
+<p>Here&#8217;s the directors cut of the thermite video which contains 4 extra minutes:</p>
+<p><span style="text-align:center; display: block;"><a href="http://hackaday.com/2008/09/16/how-to-thermite-based-hard-drive-anti-forensic-destruction/"><img src="http://img.youtube.com/vi/a7Kn3phALkY/2.jpg" alt="" /></a></span></p>
+<p>Finally, please do not try this.</p>
+<p><iframe src='http://digg.com/api/diggthis.php?u=http%3A%2F%2Fdigg.com%2Fgeneral_sciences%2FThermite_hard_drive_destruction' height='82' width='55' frameborder='0' scrolling='no' style='float: right; margin-left: 10px; margin-bottom: 5px; padding: 4px 0 2px 4px; background: #fff;'></iframe></p>
+<img alt="" border="0" src="http://feeds.wordpress.com/1.0/categories/hackadaycom.wordpress.com/2507/" /> <img alt="" border="0" src="http://feeds.wordpress.com/1.0/tags/hackadaycom.wordpress.com/2507/" /> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/hackadaycom.wordpress.com/2507/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/hackadaycom.wordpress.com/2507/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/hackadaycom.wordpress.com/2507/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/hackadaycom.wordpress.com/2507/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/hackadaycom.wordpress.com/2507/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/hackadaycom.wordpress.com/2507/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/hackadaycom.wordpress.com/2507/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/hackadaycom.wordpress.com/2507/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/hackadaycom.wordpress.com/2507/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/hackadaycom.wordpress.com/2507/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=hackaday.com&blog=4779443&post=2507&subd=hackadaycom&ref=&feed=1" /></div>]]></content:encoded>
+			<wfw:commentRss>http://hackaday.com/2008/09/16/how-to-thermite-based-hard-drive-anti-forensic-destruction/feed/</wfw:commentRss>
+	
+		<media:content url="http://hackadaycom.files.wordpress.com/2008/08/dsc02559a.jpg" medium="image">
+			<media:title type="html">thermite</media:title>
+		</media:content>
+
+		<media:content url="http://img.youtube.com/vi/k-ckechIqW0/2.jpg" medium="image" />
+
+		<media:content url="http://hackadaycom.files.wordpress.com/2008/09/alum-powder1.jpg" medium="image" />
+
+		<media:content url="http://hackadaycom.files.wordpress.com/2008/09/fe304.jpg" medium="image" />
+
+		<media:content url="http://hackadaycom.files.wordpress.com/2008/09/dsc025581.jpg" medium="image" />
+
+		<media:content url="http://hackadaycom.files.wordpress.com/2008/09/dsc02560.jpg" medium="image" />
+
+		<media:content url="http://hackadaycom.files.wordpress.com/2008/09/dsc02561.jpg" medium="image" />
+
+		<media:content url="http://hackadaycom.files.wordpress.com/2008/09/dsc02565.jpg" medium="image" />
+
+		<media:content url="http://hackadaycom.files.wordpress.com/2008/09/dsc02570.jpg" medium="image" />
+
+		<media:content url="http://hackadaycom.files.wordpress.com/2008/09/dsc02591.jpg" medium="image" />
+
+		<media:content url="http://hackadaycom.files.wordpress.com/2008/09/dsc02657a.jpg" medium="image" />
+
+		<media:content url="http://hackadaycom.files.wordpress.com/2008/09/dsc02743a.jpg" medium="image" />
+
+		<media:content url="http://img.youtube.com/vi/WrCWLpRc1yM/2.jpg" medium="image" />
+
+		<media:content url="http://img.youtube.com/vi/a7Kn3phALkY/2.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Why I Hate Django</title>
+		<link>http://hackaday.com/2008/09/16/why-i-hate-django/</link>
+		<comments>http://hackaday.com/2008/09/16/why-i-hate-django/#comments</comments>
+		<pubDate>Tue, 16 Sep 2008 22:10:21 +0000</pubDate>
+		<dc:creator>Eliot Phillips</dc:creator>
+		
+		<category><![CDATA[cons]]></category>
+
+		<category><![CDATA[misc hacks]]></category>
+
+		<category><![CDATA[django]]></category>
+
+		<category><![CDATA[djangopony]]></category>
+
+		<category><![CDATA[flickr]]></category>
+
+		<category><![CDATA[framework]]></category>
+
+		<category><![CDATA[magic]]></category>
+
+		<category><![CDATA[pony]]></category>
+
+		<category><![CDATA[python]]></category>
+
+		<category><![CDATA[ruby]]></category>
+
+		<category><![CDATA[video]]></category>
+
+		<category><![CDATA[web]]></category>
+
+		<category><![CDATA[web framework]]></category>
+
+		<category><![CDATA[web20]]></category>
+
+		<category><![CDATA[youtube]]></category>
+
+		<guid isPermaLink="false">http://hackadaycom.wordpress.com/?p=3276</guid>
+		<description><![CDATA[
+[Cal Henderson] delivered a keynote titled Why I Hate Django at the first annual DjangoCon. Django is an open source BSD licensed web framework written in Python. Google has posted the keynote in its entirety to YouTube, which you can find embedded above. While the talk is humorous (and takes many jabs at Rails developers) [...]]]></description>
+			<content:encoded><![CDATA[<div class='snap_preview'><br /><p><span style="text-align:center; display: block;"><a href="http://hackaday.com/2008/09/16/why-i-hate-django/"><img src="http://img.youtube.com/vi/i6Fr65PFqfk/2.jpg" alt="" /></a></span></p>
+<p>[Cal Henderson] delivered a keynote titled <em>Why I Hate Django</em> at the first annual <a href="http://djangocon.org/">DjangoCon</a>. <a href="http://www.djangoproject.com/">Django</a> is an open source BSD licensed web framework written in Python. Google has posted the keynote in its entirety to YouTube, which you can find embedded above. While the talk is humorous (and takes many jabs at Rails developers) it does provide insight into what makes a good web framework. [Cal] is Director of Engineering at Flickr and is an authority on how to make websites scale. He points out that most frameworks are designed to get projects off the ground quickly, but are lacking when it comes to building an even larger service. He talks about several things in Django that need work and improvements that could be made. It&#8217;s really an interesting look at what it takes to go big.<span id="more-3276"></span></p>
+<p>Towards the end, [Cal] notes that Django has no mascot, &#8220;I could take a framework seriously that had a mascot with magical powers.&#8221; Well, that seemed to be the easiest thing to fix so avalonstar created <a href="http://avalonstar.com/blog/2008/sep/9/web-framework-ponies/">Django: The web framework for ponies with magical powers</a>. It&#8217;s available as wallpaper on <a href="http://www.djangopony.com/">djangopony</a>, and Ruby legend, [why], has already set about <a href="http://hackety.org/2008/09/15/documentsRevealDjangoPonyTailOfLies.html">debunking the magic involved</a>.</p>
+<img alt="" border="0" src="http://feeds.wordpress.com/1.0/categories/hackadaycom.wordpress.com/3276/" /> <img alt="" border="0" src="http://feeds.wordpress.com/1.0/tags/hackadaycom.wordpress.com/3276/" /> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/hackadaycom.wordpress.com/3276/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/hackadaycom.wordpress.com/3276/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/hackadaycom.wordpress.com/3276/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/hackadaycom.wordpress.com/3276/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/hackadaycom.wordpress.com/3276/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/hackadaycom.wordpress.com/3276/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/hackadaycom.wordpress.com/3276/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/hackadaycom.wordpress.com/3276/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/hackadaycom.wordpress.com/3276/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/hackadaycom.wordpress.com/3276/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=hackaday.com&blog=4779443&post=3276&subd=hackadaycom&ref=&feed=1" /></div>]]></content:encoded>
+			<wfw:commentRss>http://hackaday.com/2008/09/16/why-i-hate-django/feed/</wfw:commentRss>
+	
+		<media:content url="http://a.wordpress.com/avatar/eliotphillips-128.jpg" medium="image">
+			<media:title type="html">RobotSkirts</media:title>
+		</media:content>
+
+		<media:content url="http://img.youtube.com/vi/i6Fr65PFqfk/2.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Antec Skeleton case</title>
+		<link>http://hackaday.com/2008/09/16/antec-skeleton-case/</link>
+		<comments>http://hackaday.com/2008/09/16/antec-skeleton-case/#comments</comments>
+		<pubDate>Tue, 16 Sep 2008 21:10:41 +0000</pubDate>
+		<dc:creator>Eliot Phillips</dc:creator>
+		
+		<category><![CDATA[misc hacks]]></category>
+
+		<category><![CDATA[news]]></category>
+
+		<category><![CDATA[pcs hacks]]></category>
+
+		<category><![CDATA[250mm]]></category>
+
+		<category><![CDATA[acquire]]></category>
+
+		<category><![CDATA[airflow]]></category>
+
+		<category><![CDATA[antec]]></category>
+
+		<category><![CDATA[antec case]]></category>
+
+		<category><![CDATA[case]]></category>
+
+		<category><![CDATA[case fan]]></category>
+
+		<category><![CDATA[cooling]]></category>
+
+		<category><![CDATA[skeleton]]></category>
+
+		<category><![CDATA[skeleton case]]></category>
+
+		<category><![CDATA[tweaktown]]></category>
+
+		<category><![CDATA[xtine]]></category>
+
+		<guid isPermaLink="false">http://hackadaycom.wordpress.com/?p=3271</guid>
+		<description><![CDATA[
+Maybe you saw the previous post and thought, &#8220;Well, that&#8217;s all well and good, but why is such a stylish case being used to ventilate cat feces?&#8221; Antec has heard your cries and has created a computer case with all the lovely curves of a litter box and just as much airflow. The Skeleton case [...]]]></description>
+			<content:encoded><![CDATA[<div class='snap_preview'><br /><p style="text-align:center;"><img class="size-full wp-image-3272 aligncenter" title="antec_skeleton_case" src="http://hackadaycom.files.wordpress.com/2008/09/antec_skeleton_case.jpg?w=400&#038;h=330" alt="" width="400" height="330" /></p>
+<p>Maybe you saw the <a href="http://hackaday.com/2008/09/16/hack-your-littler-box/">previous post</a> and thought, &#8220;Well, that&#8217;s all well and good, but why is such a stylish case being used to ventilate cat feces?&#8221; Antec has heard your cries and has created a computer case with all the lovely curves of a litter box and just as much airflow. The <a href="http://www.antec.com/us/productDetails.php?ProdID=15125#">Skeleton case</a> has an open frame design with a 250mm fan on top. You mount the motherboard to a sliding tray. The power supply and hard drives are mounted underneath. It&#8217;s an interesting idea and easily replicated, but if cooling had been the goal, it would be a lot more enclosed. You can see the <a href="http://www.tweaktown.com/news/9571/antec_creates_unique_skeleton_case_for_diy_users/index.html">case with components installed on TweakTown</a>.</p>
+<p>[via <a href="http://www.acquiremag.com/tech/desktop/antec-skeleton-case.php">acquire</a>, thanks, xtine]</p>
+<img alt="" border="0" src="http://feeds.wordpress.com/1.0/categories/hackadaycom.wordpress.com/3271/" /> <img alt="" border="0" src="http://feeds.wordpress.com/1.0/tags/hackadaycom.wordpress.com/3271/" /> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/hackadaycom.wordpress.com/3271/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/hackadaycom.wordpress.com/3271/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/hackadaycom.wordpress.com/3271/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/hackadaycom.wordpress.com/3271/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/hackadaycom.wordpress.com/3271/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/hackadaycom.wordpress.com/3271/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/hackadaycom.wordpress.com/3271/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/hackadaycom.wordpress.com/3271/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/hackadaycom.wordpress.com/3271/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/hackadaycom.wordpress.com/3271/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=hackaday.com&blog=4779443&post=3271&subd=hackadaycom&ref=&feed=1" /></div>]]></content:encoded>
+			<wfw:commentRss>http://hackaday.com/2008/09/16/antec-skeleton-case/feed/</wfw:commentRss>
+	
+		<media:content url="http://a.wordpress.com/avatar/eliotphillips-128.jpg" medium="image">
+			<media:title type="html">RobotSkirts</media:title>
+		</media:content>
+
+		<media:content url="http://hackadaycom.files.wordpress.com/2008/09/antec_skeleton_case.jpg" medium="image">
+			<media:title type="html">antec_skeleton_case</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Hack your litter box</title>
+		<link>http://hackaday.com/2008/09/16/hack-your-littler-box/</link>
+		<comments>http://hackaday.com/2008/09/16/hack-your-littler-box/#comments</comments>
+		<pubDate>Tue, 16 Sep 2008 17:14:05 +0000</pubDate>
+		<dc:creator>Caleb Kraft</dc:creator>
+		
+		<category><![CDATA[home hacks]]></category>
+
+		<category><![CDATA[news]]></category>
+
+		<category><![CDATA[cat box]]></category>
+
+		<category><![CDATA[cat poop]]></category>
+
+		<category><![CDATA[home automation]]></category>
+
+		<category><![CDATA[litter box]]></category>
+
+		<guid isPermaLink="false">http://hackadaycom.wordpress.com/?p=3262</guid>
+		<description><![CDATA[
+Cat poo stinks.  We all know it. Those of us who have cats, though frequently amazed at the sheer magnitude of stench our cuddly friends are capable of, do little to remedy the situation.  Sure, sometimes we buy the fancier kitty litter or the special food.  [agraham999] decided to be a little more proactive.  He [...]]]></description>
+			<content:encoded><![CDATA[<div class='snap_preview'><br /><p><img class="alignnone size-full wp-image-3264" title="catvent" src="http://hackadaycom.files.wordpress.com/2008/09/catvent.jpg?w=450&#038;h=338" alt="" width="450" height="338" /><br />
+Cat poo stinks.  We all know it. Those of us who have cats, though frequently amazed at the sheer magnitude of stench our cuddly friends are capable of, do little to remedy the situation.  Sure, sometimes we buy the fancier kitty litter or the special food.  [agraham999] decided to be a little more proactive.  He built an <a href="http://forums.treehugger.com/viewtopic.php?f=2&amp;t=6186">automated exhaust system for the litter box</a>. He wasn&#8217;t content to just rig a fan blowing to an exhaust vent either, he hooked it up to an automation system and a motion detector.  The total cost for the project was $80, not including the mac mini that serves as the brains.</p>
+<p>Be sure to read through the comments for some very in depth discussion about power usage and solar conversions.</p>
+<p>[via <a href="http://gadgets.boingboing.net/2008/09/15/alans-diy-cat-jet-li.html">Boing Boing Gadgets</a>]</p>
+<img alt="" border="0" src="http://feeds.wordpress.com/1.0/categories/hackadaycom.wordpress.com/3262/" /> <img alt="" border="0" src="http://feeds.wordpress.com/1.0/tags/hackadaycom.wordpress.com/3262/" /> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/hackadaycom.wordpress.com/3262/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/hackadaycom.wordpress.com/3262/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/hackadaycom.wordpress.com/3262/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/hackadaycom.wordpress.com/3262/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/hackadaycom.wordpress.com/3262/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/hackadaycom.wordpress.com/3262/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/hackadaycom.wordpress.com/3262/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/hackadaycom.wordpress.com/3262/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/hackadaycom.wordpress.com/3262/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/hackadaycom.wordpress.com/3262/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=hackaday.com&blog=4779443&post=3262&subd=hackadaycom&ref=&feed=1" /></div>]]></content:encoded>
+			<wfw:commentRss>http://hackaday.com/2008/09/16/hack-your-littler-box/feed/</wfw:commentRss>
+	
+		<media:content url="http://hackadaycom.files.wordpress.com/2008/09/catvent.jpg" medium="image">
+			<media:title type="html">catvent</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>VLC media player 0.9.2 released</title>
+		<link>http://hackaday.com/2008/09/16/vlc-media-player-092-released/</link>
+		<comments>http://hackaday.com/2008/09/16/vlc-media-player-092-released/#comments</comments>
+		<pubDate>Tue, 16 Sep 2008 16:20:54 +0000</pubDate>
+		<dc:creator>Ian Lesnet</dc:creator>
+		
+		<category><![CDATA[downloads hacks]]></category>
+
+		<category><![CDATA[news]]></category>
+
+		<category><![CDATA[media]]></category>
+
+		<category><![CDATA[media player]]></category>
+
+		<category><![CDATA[multimedia]]></category>
+
+		<category><![CDATA[software updates]]></category>
+
+		<category><![CDATA[video player]]></category>
+
+		<category><![CDATA[VideoLAN]]></category>
+
+		<category><![CDATA[vlc]]></category>
+
+		<category><![CDATA[VLC media player]]></category>
+
+		<guid isPermaLink="false">http://hackadaycom.wordpress.com/?p=3231</guid>
+		<description><![CDATA[
+VideoLAN just released VLC media player 0.9.2. VLC is probably the best known open source media player, and supports most audio/video formats without additional codecs. Before VLC, we usually installed buggy codec packs to watch videos in Winamp or Windows Media Player. We&#8217;ve found the nightly builds to be pretty stable for the past month, [...]]]></description>
+			<content:encoded><![CDATA[<div class='snap_preview'><br /><p><img class="alignnone size-full wp-image-3232" title="vlc-had" src="http://hackadaycom.files.wordpress.com/2008/09/vlc-had.jpg?w=450&#038;h=324" alt="" width="450" height="324" /></p>
+<p><a href="http://www.videolan.org/">VideoLAN</a> just released <a href="http://www.videolan.org/vlc/">VLC media player</a> 0.9.2. VLC is probably the best known open source media player, and supports most audio/video formats without additional codecs. Before VLC, we usually installed buggy <a href="http://en.wikipedia.org/wiki/K-Lite_Codec_Pack">codec packs</a> to watch videos in Winamp or Windows Media Player. We&#8217;ve found the <a href="http://nightlies.videolan.org/">nightly builds</a> to be pretty stable for the past month, but it&#8217;s nice to see the final version released.</p>
+<p>Download Squad gushed over the new interface design, but omitted the real change &#8212; VideoLAN switched from <a href="http://www.wxwidgets.org/">wxWidgets</a> to the <a href="http://trolltech.com/products/qt/">Qt</a> toolkit. Among <a href="http://wiki.videolan.org/Qt_and_GTK">many changes</a>, Qt allows video effects to be applied without restarting the media.</p>
+<p>One of our favorite new features is an <em>adjustments and effects</em> menu for quick picture, sound, and subtitle tweaks. The new version has better support for flash videos (FLV), and will stream from most online video sharing sites. See the full changelog at the <a href="http://wiki.videolan.org/What_is_cool_in_0.9">VideoLAN wiki</a>, and <a href="http://wiki.videolan.org/Help_us">help out</a> if that&#8217;s your thing.</p>
+<p>[via <a href="http://www.downloadsquad.com/2008/09/15/vlc-0-9-2-released-new-interface-better-codec-support/">Download Squad</a>]</p>
+<img alt="" border="0" src="http://feeds.wordpress.com/1.0/categories/hackadaycom.wordpress.com/3231/" /> <img alt="" border="0" src="http://feeds.wordpress.com/1.0/tags/hackadaycom.wordpress.com/3231/" /> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/hackadaycom.wordpress.com/3231/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/hackadaycom.wordpress.com/3231/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/hackadaycom.wordpress.com/3231/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/hackadaycom.wordpress.com/3231/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/hackadaycom.wordpress.com/3231/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/hackadaycom.wordpress.com/3231/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/hackadaycom.wordpress.com/3231/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/hackadaycom.wordpress.com/3231/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/hackadaycom.wordpress.com/3231/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/hackadaycom.wordpress.com/3231/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=hackaday.com&blog=4779443&post=3231&subd=hackadaycom&ref=&feed=1" /></div>]]></content:encoded>
+			<wfw:commentRss>http://hackaday.com/2008/09/16/vlc-media-player-092-released/feed/</wfw:commentRss>
+	
+		<media:content url="http://hackadaycom.files.wordpress.com/2008/09/vlc-had.jpg" medium="image">
+			<media:title type="html">vlc-had</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Arcade cabinet that plays every game in the universe</title>
+		<link>http://hackaday.com/2008/09/16/arcade-cabinet-that-plays-every-game-in-the-universe/</link>
+		<comments>http://hackaday.com/2008/09/16/arcade-cabinet-that-plays-every-game-in-the-universe/#comments</comments>
+		<pubDate>Tue, 16 Sep 2008 15:42:59 +0000</pubDate>
+		<dc:creator>Caleb Kraft</dc:creator>
+		
+		<category><![CDATA[daily]]></category>
+
+		<category><![CDATA[home entertainment hacks]]></category>
+
+		<category><![CDATA[xbox hacks]]></category>
+
+		<category><![CDATA[arcade]]></category>
+
+		<category><![CDATA[arcade cabinet]]></category>
+
+		<category><![CDATA[cabinet]]></category>
+
+		<category><![CDATA[Joystick]]></category>
+
+		<category><![CDATA[playstation]]></category>
+
+		<category><![CDATA[retro]]></category>
+
+		<category><![CDATA[wii]]></category>
+
+		<category><![CDATA[xbox]]></category>
+
+		<guid isPermaLink="false">http://hackadaycom.wordpress.com/?p=3248</guid>
+		<description><![CDATA[
+Ok, maybe we&#8217;re exaggerating a little bit. It may not play every game in the universe, but the CMACC gets pretty close. CMACC stands for &#8220;Complete - Multi Arcade Console Computer System&#8221; and is comprised of a giant pile of gaming goodness.  [Mayhem] packed a PC, Xbox, Xbox360, Dreamcast, Wii, PSP, and a DS into [...]]]></description>
+			<content:encoded><![CDATA[<div class='snap_preview'><br /><p><img class="alignnone size-full wp-image-3249" title="arcade_mame_hack" src="http://hackadaycom.files.wordpress.com/2008/09/arcade_mame_hack.jpg?w=450&#038;h=325" alt="" width="450" height="325" /><br />
+Ok, maybe we&#8217;re exaggerating a little bit. It may not play every game in the universe, but the <a href="http://www.over-clock.co.uk/ivb/index.php?showtopic=20968&amp;st=0">CMACC gets pretty close</a>. CMACC stands for &#8220;Complete - Multi Arcade Console Computer System&#8221; and is comprised of a giant pile of gaming goodness.  [Mayhem] packed a PC, Xbox, Xbox360, Dreamcast, Wii, PSP, and a DS into the cabinet. He seems to have overlooked the Virtual Boy though.</p>
+<p>He&#8217;s using <a href="http://www.gameex.net/">GamEx</a> as a front end for a multitude of emulators, including <a href="http://www.mess.org/">MESS</a> which emulates tons of old desktops like Commodores and Apples. The cabinet, while not as elegant as the <a href="http://hackaday.com/2008/08/20/hackit-modern-arcade-cabinets/">Retro Space</a>, wins major geek points for the cup holder.</p>
+<p>[via <a href="http://www.engadget.com/2008/09/15/c-maccs-arcade-cabinet-plays-every-game-emulated-or-not/">Engadget</a>]</p>
+<img alt="" border="0" src="http://feeds.wordpress.com/1.0/categories/hackadaycom.wordpress.com/3248/" /> <img alt="" border="0" src="http://feeds.wordpress.com/1.0/tags/hackadaycom.wordpress.com/3248/" /> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/hackadaycom.wordpress.com/3248/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/hackadaycom.wordpress.com/3248/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/hackadaycom.wordpress.com/3248/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/hackadaycom.wordpress.com/3248/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/hackadaycom.wordpress.com/3248/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/hackadaycom.wordpress.com/3248/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/hackadaycom.wordpress.com/3248/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/hackadaycom.wordpress.com/3248/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/hackadaycom.wordpress.com/3248/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/hackadaycom.wordpress.com/3248/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=hackaday.com&blog=4779443&post=3248&subd=hackadaycom&ref=&feed=1" /></div>]]></content:encoded>
+			<wfw:commentRss>http://hackaday.com/2008/09/16/arcade-cabinet-that-plays-every-game-in-the-universe/feed/</wfw:commentRss>
+	
+		<media:content url="http://hackadaycom.files.wordpress.com/2008/09/arcade_mame_hack.jpg" medium="image">
+			<media:title type="html">arcade_mame_hack</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Peek email reader teardown</title>
+		<link>http://hackaday.com/2008/09/15/peek-email-reader-teardown/</link>
+		<comments>http://hackaday.com/2008/09/15/peek-email-reader-teardown/#comments</comments>
+		<pubDate>Tue, 16 Sep 2008 02:00:21 +0000</pubDate>
+		<dc:creator>Eliot Phillips</dc:creator>
+		
+		<category><![CDATA[cellphones hacks]]></category>
+
+		<category><![CDATA[misc hacks]]></category>
+
+		<category><![CDATA[camera]]></category>
+
+		<category><![CDATA[cellphone]]></category>
+
+		<category><![CDATA[cvs]]></category>
+
+		<category><![CDATA[data plan]]></category>
+
+		<category><![CDATA[email]]></category>
+
+		<category><![CDATA[make]]></category>
+
+		<category><![CDATA[omap]]></category>
+
+		<category><![CDATA[peek]]></category>
+
+		<category><![CDATA[qwerty]]></category>
+
+		<category><![CDATA[teardown]]></category>
+
+		<category><![CDATA[ti]]></category>
+
+		<guid isPermaLink="false">http://hackadaycom.wordpress.com/?p=3227</guid>
+		<description><![CDATA[
+[morcheeba], who you should remember from CVS camera hacking, picked up a Peek and took some pictures while tearing it down. The Peek is a $100 QWERTY device with a simple OS designed only to check email. The device is being sold by T-Mobile with a $19.95/mo data plan. There&#8217;s nothing too spectacular to see [...]]]></description>
+			<content:encoded><![CDATA[<div class='snap_preview'><br /><p><img class="alignnone size-full wp-image-3228" title="peek_teardown" src="http://hackadaycom.files.wordpress.com/2008/09/peek_teardown.jpg?w=450&#038;h=314" alt="" width="450" height="314" /></p>
+<p>[morcheeba], who you should remember from <a href="http://www.maushammer.com/systems/cvscamcorder/">CVS camera hacking</a>, picked up a Peek and <a href="http://www.flickr.com/photos/8728129@N05/sets/72157607274454694/">took some pictures while tearing it down</a>. The <a href="http://www.mahalo.com/Peek">Peek</a> is a $100 QWERTY device with a simple OS designed only to check email. The device is being sold by T-Mobile with a $19.95/mo data plan. There&#8217;s nothing too spectacular to see other than 16MB of flash memory and a TI OMAP processor.</p>
+<p>[via <a href="http://blog.makezine.com/archive/2008/09/peek_email_reader_teardow.html">Make</a>]</p>
+<img alt="" border="0" src="http://feeds.wordpress.com/1.0/categories/hackadaycom.wordpress.com/3227/" /> <img alt="" border="0" src="http://feeds.wordpress.com/1.0/tags/hackadaycom.wordpress.com/3227/" /> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/hackadaycom.wordpress.com/3227/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/hackadaycom.wordpress.com/3227/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/hackadaycom.wordpress.com/3227/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/hackadaycom.wordpress.com/3227/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/hackadaycom.wordpress.com/3227/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/hackadaycom.wordpress.com/3227/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/hackadaycom.wordpress.com/3227/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/hackadaycom.wordpress.com/3227/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/hackadaycom.wordpress.com/3227/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/hackadaycom.wordpress.com/3227/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=hackaday.com&blog=4779443&post=3227&subd=hackadaycom&ref=&feed=1" /></div>]]></content:encoded>
+			<wfw:commentRss>http://hackaday.com/2008/09/15/peek-email-reader-teardown/feed/</wfw:commentRss>
+	
+		<media:content url="http://a.wordpress.com/avatar/eliotphillips-128.jpg" medium="image">
+			<media:title type="html">RobotSkirts</media:title>
+		</media:content>
+
+		<media:content url="http://hackadaycom.files.wordpress.com/2008/09/peek_teardown.jpg" medium="image">
+			<media:title type="html">peek_teardown</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Wii backup ISO loader</title>
+		<link>http://hackaday.com/2008/09/15/wii-backup-iso-loader/</link>
+		<comments>http://hackaday.com/2008/09/15/wii-backup-iso-loader/#comments</comments>
+		<pubDate>Tue, 16 Sep 2008 00:43:32 +0000</pubDate>
+		<dc:creator>Eliot Phillips</dc:creator>
+		
+		<category><![CDATA[home entertainment hacks]]></category>
+
+		<category><![CDATA[wii hacks]]></category>
+
+		<category><![CDATA[homebrew]]></category>
+
+		<category><![CDATA[homebrew channel]]></category>
+
+		<category><![CDATA[nintendo]]></category>
+
+		<category><![CDATA[nintendo wii]]></category>
+
+		<category><![CDATA[nintendo wii fanboy]]></category>
+
+		<category><![CDATA[wii]]></category>
+
+		<category><![CDATA[wii homebrew]]></category>
+
+		<guid isPermaLink="false">http://hackadaycom.wordpress.com/?p=3224</guid>
+		<description><![CDATA[
+The video above shows a new Wii backup loader that&#8217;s in development. It works via the easy to use Homebrew Channel we covered previously. From the news post it seems you have to rip the original game disc and then patch it before burning the copy. No release date has been set. As Nintendo Wii [...]]]></description>
+			<content:encoded><![CDATA[<div class='snap_preview'><br /><p><span style="text-align:center; display: block;"><a href="http://hackaday.com/2008/09/15/wii-backup-iso-loader/"><img src="http://img.youtube.com/vi/Xtu0kQHaIhI/2.jpg" alt="" /></a></span></p>
+<p>The video above shows a new Wii backup loader that&#8217;s in development. It works via the easy to use Homebrew Channel we covered previously. <a href="http://www.tehskeen.com/forums/showthread.php?threadid=8876">From the news post</a> it seems you have to rip the original game disc and then patch it before burning the copy. No release date has been set. As <a href="http://www.nintendowiifanboy.com/2008/09/15/yarr-new-homebrew-program-runs-dvd-game-backups/">Nintendo Wii Fanboy put it</a>, there&#8217;s much more interesting things to do with <a href="http://wiibrew.org/wiki/Main_Page">homebrew</a> than wait for this to be released.</p>
+<img alt="" border="0" src="http://feeds.wordpress.com/1.0/categories/hackadaycom.wordpress.com/3224/" /> <img alt="" border="0" src="http://feeds.wordpress.com/1.0/tags/hackadaycom.wordpress.com/3224/" /> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/hackadaycom.wordpress.com/3224/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/hackadaycom.wordpress.com/3224/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/hackadaycom.wordpress.com/3224/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/hackadaycom.wordpress.com/3224/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/hackadaycom.wordpress.com/3224/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/hackadaycom.wordpress.com/3224/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/hackadaycom.wordpress.com/3224/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/hackadaycom.wordpress.com/3224/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/hackadaycom.wordpress.com/3224/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/hackadaycom.wordpress.com/3224/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=hackaday.com&blog=4779443&post=3224&subd=hackadaycom&ref=&feed=1" /></div>]]></content:encoded>
+			<wfw:commentRss>http://hackaday.com/2008/09/15/wii-backup-iso-loader/feed/</wfw:commentRss>
+	
+		<media:content url="http://a.wordpress.com/avatar/eliotphillips-128.jpg" medium="image">
+			<media:title type="html">RobotSkirts</media:title>
+		</media:content>
+
+		<media:content url="http://img.youtube.com/vi/Xtu0kQHaIhI/2.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Flickr photo bike</title>
+		<link>http://hackaday.com/2008/09/15/flickr-photo-bike/</link>
+		<comments>http://hackaday.com/2008/09/15/flickr-photo-bike/#comments</comments>
+		<pubDate>Tue, 16 Sep 2008 00:19:55 +0000</pubDate>
+		<dc:creator>Eliot Phillips</dc:creator>
+		
+		<category><![CDATA[cellphones hacks]]></category>
+
+		<category><![CDATA[digital cameras hacks]]></category>
+
+		<category><![CDATA[transportation hacks]]></category>
+
+		<category><![CDATA[bicycle]]></category>
+
+		<category><![CDATA[bike]]></category>
+
+		<category><![CDATA[cellphone]]></category>
+
+		<category><![CDATA[flickr]]></category>
+
+		<category><![CDATA[geotag]]></category>
+
+		<category><![CDATA[geotagging]]></category>
+
+		<category><![CDATA[gina trapani]]></category>
+
+		<category><![CDATA[lifehacker]]></category>
+
+		<category><![CDATA[n95]]></category>
+
+		<category><![CDATA[nokia]]></category>
+
+		<category><![CDATA[nokia n95]]></category>
+
+		<category><![CDATA[shozu]]></category>
+
+		<guid isPermaLink="false">http://hackadaycom.wordpress.com/?p=3220</guid>
+		<description><![CDATA[
+Lifehacker&#8217;s [Gina Trapani] has one of Flickr&#8217;s photo bikes and wrote up how it works. As you ride, the bike automatically takes photographs, geotags them, and uploads them to Flickr. The handlebar unit contains a Nokia N95 cellphone. The rear is a solar powered charging unit. It has a custom python script that starts the [...]]]></description>
+			<content:encoded><![CDATA[<div class='snap_preview'><br /><p><img class="alignnone size-full wp-image-3221" title="flickr_photo_bike" src="http://hackadaycom.files.wordpress.com/2008/09/flickr_photo_bike.jpg?w=450&#038;h=338" alt="" width="450" height="338" /></p>
+<p>Lifehacker&#8217;s [Gina Trapani] has one of Flickr&#8217;s photo bikes and <a href="http://lifehacker.com/5049737/flickr-bikes-photo+map-locales-across-the-globe">wrote up how it works</a>. As you ride, the bike automatically takes photographs, geotags them, and uploads them to Flickr. The handlebar unit contains a <a href="http://www.mahalo.com/Nokia_N95">Nokia N95</a> cellphone. The rear is a solar powered charging unit. It has a custom python script that starts the photo taking sequence when it detects the bike is in motion using the phone&#8217;s accelerometer.</p>
+<p>Most of the engineering seems to be for usability&#8217;s sake. We&#8217;re guessing they probably wanted to disguise that they&#8217;re bolting a $600 cellphone to a bike as well. Out of the box the Nokia N95 already does almost everything required. It has a 5 megapixel camera with an interval timer that can vary from 10 seconds to 30 minutes. It supports Flickr uploading, but with software like <a href="http://www.shozu.com/portal/index.do">ShoZu</a> you can streamline the geotagging and make all uploads automatic. Just build a solid mount for your N95 and you&#8217;ve pretty much got it, and when you park your bike you can take the phone with you.</p>
+<img alt="" border="0" src="http://feeds.wordpress.com/1.0/categories/hackadaycom.wordpress.com/3220/" /> <img alt="" border="0" src="http://feeds.wordpress.com/1.0/tags/hackadaycom.wordpress.com/3220/" /> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/hackadaycom.wordpress.com/3220/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/hackadaycom.wordpress.com/3220/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/hackadaycom.wordpress.com/3220/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/hackadaycom.wordpress.com/3220/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/hackadaycom.wordpress.com/3220/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/hackadaycom.wordpress.com/3220/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/hackadaycom.wordpress.com/3220/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/hackadaycom.wordpress.com/3220/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/hackadaycom.wordpress.com/3220/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/hackadaycom.wordpress.com/3220/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=hackaday.com&blog=4779443&post=3220&subd=hackadaycom&ref=&feed=1" /></div>]]></content:encoded>
+			<wfw:commentRss>http://hackaday.com/2008/09/15/flickr-photo-bike/feed/</wfw:commentRss>
+	
+		<media:content url="http://a.wordpress.com/avatar/eliotphillips-128.jpg" medium="image">
+			<media:title type="html">RobotSkirts</media:title>
+		</media:content>
+
+		<media:content url="http://hackadaycom.files.wordpress.com/2008/09/flickr_photo_bike.jpg" medium="image">
+			<media:title type="html">flickr_photo_bike</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Apple finally fixes DNS bug</title>
+		<link>http://hackaday.com/2008/09/15/apple-finally-fixes-dns-bug/</link>
+		<comments>http://hackaday.com/2008/09/15/apple-finally-fixes-dns-bug/#comments</comments>
+		<pubDate>Mon, 15 Sep 2008 21:24:29 +0000</pubDate>
+		<dc:creator>Eliot Phillips</dc:creator>
+		
+		<category><![CDATA[macs hacks]]></category>
+
+		<category><![CDATA[news]]></category>
+
+		<category><![CDATA[security hacks]]></category>
+
+		<category><![CDATA[apple]]></category>
+
+		<category><![CDATA[bind]]></category>
+
+		<category><![CDATA[bug]]></category>
+
+		<category><![CDATA[Dan Kaminsky]]></category>
+
+		<category><![CDATA[dns]]></category>
+
+		<category><![CDATA[DNS cache poisoning]]></category>
+
+		<category><![CDATA[iphone]]></category>
+
+		<category><![CDATA[mdnsresponder]]></category>
+
+		<category><![CDATA[security update]]></category>
+
+		<category><![CDATA[time machine]]></category>
+
+		<guid isPermaLink="false">http://hackadaycom.wordpress.com/?p=3211</guid>
+		<description><![CDATA[
+With today&#8217;s release of Security Update 2008-006 Apple has finally addressed this summer&#8217;s DNS bug. In their previous update they fixed BIND, but that only affects people running servers. Now, they&#8217;ve updated mDNSResponder. Clients are no longer susceptible to DNS cache poisoning attacks thanks to the inclusion of source port randomization.
+The Security Update addresses some [...]]]></description>
+			<content:encoded><![CDATA[<div class='snap_preview'><br /><p><img class="alignnone size-full wp-image-3212" title="had_iphone" src="http://hackadaycom.files.wordpress.com/2008/09/had_iphone.jpg?w=450&#038;h=140" alt="" width="450" height="140" /></p>
+<p>With today&#8217;s release of <a href="http://support.apple.com/kb/HT3137">Security Update 2008-006</a> Apple has finally addressed this summer&#8217;s <a href="http://hackaday.com/tag/dns/">DNS bug</a>. In their previous update <a href="http://support.apple.com/kb/HT2647">they fixed BIND</a>, but that only affects people running servers. Now, they&#8217;ve updated mDNSResponder. Clients are no longer susceptible to DNS cache poisoning attacks thanks to the inclusion of source port randomization.</p>
+<p>The Security Update addresses some other interesting bugs. Time Machine was saving sensitive logs without using the proper permissions, so any user could view them.</p>
+<p>[photo: <a href="http://flickr.com/photos/edans/1526393678/">edans</a>]</p>
+<img alt="" border="0" src="http://feeds.wordpress.com/1.0/categories/hackadaycom.wordpress.com/3211/" /> <img alt="" border="0" src="http://feeds.wordpress.com/1.0/tags/hackadaycom.wordpress.com/3211/" /> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/hackadaycom.wordpress.com/3211/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/hackadaycom.wordpress.com/3211/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/hackadaycom.wordpress.com/3211/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/hackadaycom.wordpress.com/3211/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/hackadaycom.wordpress.com/3211/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/hackadaycom.wordpress.com/3211/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/hackadaycom.wordpress.com/3211/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/hackadaycom.wordpress.com/3211/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/hackadaycom.wordpress.com/3211/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/hackadaycom.wordpress.com/3211/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=hackaday.com&blog=4779443&post=3211&subd=hackadaycom&ref=&feed=1" /></div>]]></content:encoded>
+			<wfw:commentRss>http://hackaday.com/2008/09/15/apple-finally-fixes-dns-bug/feed/</wfw:commentRss>
+	
+		<media:content url="http://a.wordpress.com/avatar/eliotphillips-128.jpg" medium="image">
+			<media:title type="html">RobotSkirts</media:title>
+		</media:content>
+
+		<media:content url="http://hackadaycom.files.wordpress.com/2008/09/had_iphone.jpg" medium="image">
+			<media:title type="html">had_iphone</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Top 10 greatest hacks of all time, according to PC Magazine</title>
+		<link>http://hackaday.com/2008/09/15/top-10-greatest-hacks-of-all-time-according-to-pc-magazine/</link>
+		<comments>http://hackaday.com/2008/09/15/top-10-greatest-hacks-of-all-time-according-to-pc-magazine/#comments</comments>
+		<pubDate>Mon, 15 Sep 2008 21:13:03 +0000</pubDate>
+		<dc:creator>Caleb Kraft</dc:creator>
+		
+		<category><![CDATA[news]]></category>
+
+		<category><![CDATA[pcmagazine]]></category>
+
+		<category><![CDATA[top 10 list]]></category>
+
+		<guid isPermaLink="false">http://hackadaycom.wordpress.com/?p=3202</guid>
+		<description><![CDATA[
+PC Magazine has published their top 10 greatest hacks of all time.  Seriously, just ten *eyeroll. It is fairly cute though and there are a few interesting tidbits.  Most notably, [Ben Heckendorn] made the list with one of his portable units. We&#8217;re a bit surprised that they didn&#8217;t choose the fantastic work he did on [...]]]></description>
+			<content:encoded><![CDATA[<div class='snap_preview'><br /><p><img class="alignnone size-full wp-image-3218" title="heck_hack" src="http://hackadaycom.files.wordpress.com/2008/09/heck_hack.jpg?w=450&#038;h=445" alt="" width="450" height="445" /></p>
+<p>PC Magazine has published their <a href="http://www.pcmag.com/article2/0,2704,2330368,00.asp">top 10 greatest hacks of all time</a>.  Seriously, just ten *eyeroll. It is fairly cute though and there are a few interesting tidbits.  Most notably, [Ben Heckendorn] made the list with one of his portable units. We&#8217;re a bit surprised that they didn&#8217;t choose the fantastic work he did on the <a href="http://benheck.com/03-16-2008/new-single-handed-controller">one handed controller</a>, since it could actually help people play who previously couldn&#8217;t.</p>
+<img alt="" border="0" src="http://feeds.wordpress.com/1.0/categories/hackadaycom.wordpress.com/3202/" /> <img alt="" border="0" src="http://feeds.wordpress.com/1.0/tags/hackadaycom.wordpress.com/3202/" /> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/hackadaycom.wordpress.com/3202/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/hackadaycom.wordpress.com/3202/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/hackadaycom.wordpress.com/3202/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/hackadaycom.wordpress.com/3202/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/hackadaycom.wordpress.com/3202/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/hackadaycom.wordpress.com/3202/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/hackadaycom.wordpress.com/3202/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/hackadaycom.wordpress.com/3202/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/hackadaycom.wordpress.com/3202/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/hackadaycom.wordpress.com/3202/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=hackaday.com&blog=4779443&post=3202&subd=hackadaycom&ref=&feed=1" /></div>]]></content:encoded>
+			<wfw:commentRss>http://hackaday.com/2008/09/15/top-10-greatest-hacks-of-all-time-according-to-pc-magazine/feed/</wfw:commentRss>
+	
+		<media:content url="http://hackadaycom.files.wordpress.com/2008/09/heck_hack.jpg" medium="image">
+			<media:title type="html">heck_hack</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>
