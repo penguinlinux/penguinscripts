@@ -36,7 +36,7 @@ echo "DONE"
 sleep 4 ; 
 echo "Creating Permissions on PRODUCTION live_$dbname for $dbusername with password $dbpassword"
 
-echo "grant all on live_$dbname.* to $dbusername@localhost identified by '$dbpassword';" | ssh webgroup@mddclinicalexchange.com mysql -u root -p$rootpassword
+echo "grant all on live_$dbname.* to $dbusername@localhost identified by '$dbpassword';" | ssh webgroup@thepenguinexchange.com mysql -u root -p$rootpassword
 
 sleep 3 ;
 

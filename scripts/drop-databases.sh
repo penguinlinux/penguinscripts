@@ -19,7 +19,7 @@ sleep 4
 
 echo "Dropping Database on BETA beta_$database"
 
-ssh webgroup@mddclinicalexchange.com mysqladmin -u root -p$rootpassword drop beta_$database &&
+ssh webgroup@thepenguinexchange.com mysqladmin -u root -p$rootpassword drop beta_$database &&
 
 echo "DROPPED beta_$database" 
 
@@ -27,7 +27,7 @@ sleep 4
 
 echo "Dropping Database on LIVE live_$database"
 
-ssh webgroup@mddclinicalexchange.com mysqladmin -u root -p$rootpassword drop live_$database &&
+ssh webgroup@thepenguinexchange.com mysqladmin -u root -p$rootpassword drop live_$database &&
 
 echo "DROPPED live_$database"
 

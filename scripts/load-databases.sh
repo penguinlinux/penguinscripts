@@ -21,7 +21,7 @@ sleep 3
 echo "Loading Database content on BETA beta_$database"
 
 sleep 3
-cat $1 | ssh webgroup@mddclinicalexchange.com mysql -u root -p$rootpassword beta_$database &&
+cat $1 | ssh webgroup@thepenguinexchange.com mysql -u root -p$rootpassword beta_$database &&
 
 sleep 3
 
@@ -30,7 +30,7 @@ echo "DONE loading BETA"
 echo "Loading Database content on LIVE live_$database"
 sleep 3
 
-cat $1 | ssh webgroup@mddclinicalexchange.com mysql -u root -p$rootpassword live_$database &&
+cat $1 | ssh webgroup@thepenguinexchange.com mysql -u root -p$rootpassword live_$database &&
 
 echo "DONE loading LIVE" 
 sleep 3

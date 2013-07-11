@@ -8,7 +8,7 @@ read -sp "Now enter the root SQL password (will not be echoed): " rootpassword
 echo ""
 echo "Please wait for a backup of $database"
 
-ssh webgroup@mddclinicalexchange.com mysqldump -u root -p$rootpassword $database > backup-of-$database.sql
+ssh webgroup@thepenguinexchange.com mysqldump -u root -p$rootpassword $database > backup-of-$database.sql
 
 echo "Your SQL dump is done.  Your backup file is backup-of-$database.sql"
 

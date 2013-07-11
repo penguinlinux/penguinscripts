@@ -6,7 +6,7 @@
 
    launchpad="/var/www/cgi-bin"
    sitedir="/opt/sites/beta-sites"  
-   remotesite="mddclinicalexchange.com"
+   remotesite="thepenguinexchange.com"
    emailadmin="thepenguin@fakesite.com"
    remoteuser="webgroup"
 #  The while loop will run through the file line by line and 

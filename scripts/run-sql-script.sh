@@ -53,7 +53,7 @@ if [[ $load_beta_prod == "y" || $load_beta_prod == "yes" ]]; then
 	echo "[BETA] About to run script for database $beta_pre$database (Ctrl+C to abort)"
 	sleep 2
 	echo "[BETA] RUNNING script for database $beta_pre$database"
-	cat $1 | ssh webgroup@mddclinicalexchange.com mysql -u root -p$rootpassword $beta_pre$database &&
+	cat $1 | ssh webgroup@thepenguinexchange.com mysql -u root -p$rootpassword $beta_pre$database &&
 	echo "[BETA] DONE running script for database $beta_pre$database"
 
 # update production db
@@ -61,7 +61,7 @@ if [[ $load_beta_prod == "y" || $load_beta_prod == "yes" ]]; then
 	echo "[PROD] About to run script on the prod server for db $prod_pre$database (Ctrl+C to abort)"
 	sleep 2
 	echo "[PROD] RUNNING Script on $prod_pre$database"
-	cat $1 | ssh webgroup@mddclinicalexchange.com mysql -u root -p$rootpassword $prod_pre$database &&
+	cat $1 | ssh webgroup@thepenguinexchange.com mysql -u root -p$rootpassword $prod_pre$database &&
 	echo "[PROD] DONE running script on the prod server for db $prod_pre$database" 
 else
 	echo ""
